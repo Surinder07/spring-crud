@@ -70,3 +70,5 @@ spring.jpa.hibernate.ddl-auto=create
 create, update, create-drop , none , validate 
 
 schema migration tools : liquibase and flyway 
+
+--test
